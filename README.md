@@ -9,3 +9,10 @@ finally, successfully working nodemailer express app.
     "nodemailer": "^6.4.11"
 }
 ```
+
+## Run it
+```
+npm start
+```
+
+then listen on http://localhost:3000
